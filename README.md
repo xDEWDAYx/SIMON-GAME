@@ -2,6 +2,8 @@
 
 一款使用 HTML、CSS、JavaScript 與 jQuery 製作的 Simon 記憶遊戲。玩家需要依照畫面提示，按照正確順序點擊四色按鈕；每通過一關，系統就會在原本的序列後新增一個顏色，逐步考驗玩家的記憶力。
 
+遊戲連結: https://xdewdayx.github.io/SIMON-GAME/
+
 ## 遊戲特色
 
 - 隨機產生紅、藍、綠、黃四色序列
